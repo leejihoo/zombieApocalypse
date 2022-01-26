@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/zombieApocalypse.unity
     guid: 19483f4356c25c04b8e4b707cbfba6b2
+  - enabled: 1
+    path: Assets/Scenes/DubleBufferPatternLoadingScene.unity
+    guid: 22be3d44ece103c4e8c3d35def9d3214
   m_configObjects: {}

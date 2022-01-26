@@ -8,7 +8,7 @@ public class startButtonClicked : MonoBehaviour
 {
     public void SceneChange()
     {
-        SceneManager.LoadScene("zombieApocalypse");
+        SceneManager.LoadScene("DubleBufferPatternLoadingScene");
     }
         
 }
